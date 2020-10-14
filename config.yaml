@@ -69,7 +69,7 @@ params:
   # main pages options
   mainPage:
     # option to specify the main font of the theme
-    fontFamily: "Open Sans" 
+    fontFamily: "Work Sans" 
 
   # sidebar options
   sidebar:
@@ -77,7 +77,7 @@ params:
     # the starting folder is configure in "assetDir" of this file
     logo: "/images/refresh-square.svg"
     # option to specify the font of the sidebar
-    fontFamily: "Open Sans" # "Open Sans"
+    fontFamily: "Work Sans" # "Open Sans"
 
   # navbar options
   navbar:
@@ -106,13 +106,13 @@ params:
     # this options let you specify the text of the link to the homepage
     # linkText: "Homepage"  
     # option to specify the title in the homepage
-    title: Julia The White
+    title: Karoline Melo
     # option to specify the subtitle in the homepage
-    subtitle: Personal website and blog
+    subtitle: Portifólio, Blog e algumas cositas mais =)
     # option to specify image in the homepage
     image: "/images/avataaars.png" # worker.svg 
     # option to specify the width of the image in the homepage
-    imageWidth: 500px
+    imageWidth: 600px
 
   # footer options
   footer:
@@ -121,8 +121,8 @@ params:
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
-      link: name.surname@domain.com
-      title: My Email
+      link: isthiskarol@gmail.com
+      title: Meu E-Mail
     # option to specify your linkedin profile in the footer
     linkedin: 
       link: your_linkedin_profile
@@ -148,7 +148,7 @@ params:
     #    link: username
     #    title: Instagram
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2020
+    copyright: Karoline Melo - 2020
 
 ###################################################################
 ################## multilanguage support options ##################

@@ -260,7 +260,7 @@ th {
     text-align: left; }
 
 html {
-  background-color: white;
+  background-color: #faead6;
   font-size: 16px;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -7105,7 +7105,7 @@ Hero styles
   padding-top: 6rem;
   padding-bottom: 6rem; }
   .hero-body .title, .hero-body .subtitle {
-    font-family: "Open Sans", serif; }
+    font-family: "Work Sans", serif; }
   .hero-body .title.is-bold {
     font-weight: 700; }
   .hero-body .subtitle.is-muted {
@@ -7509,7 +7509,7 @@ Sidebar Styles
       max-width: 400px;
       list-style: none;
       list-style-type: none;
-      font-family: "Open Sans", serif !important; }
+      font-family: "Work Sans", serif !important; }
       .sidebar .inner .sidebar-menu li a {
         padding: 20px 25px;
         display: block;
