@@ -6883,7 +6883,7 @@ Color variables
 Navbar
 ========================================================================== */
 .navbar.is-fresh {
-  font-family: "Open Sans", serif;
+  font-family: "Work Sans", serif;
   position: relative;
   min-height: 3.8rem;
   transition: all .3s;
@@ -6949,7 +6949,7 @@ Navbar
         color: #4FC1EA; }
 
 #navbar-clone {
-  font-family: "Open Sans", serif;
+  font-family: "Work Sans", serif;
   position: fixed;
   top: 0;
   left: 0;
